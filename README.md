@@ -9,3 +9,5 @@ Requirements:
 It will be an advantage:
 - Using the PUG preprocessor
 - Adding animation of the appearance of elements using JavaScript
+
+https://jerrydarksith.github.io/Dashboard_b2b/
