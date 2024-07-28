@@ -1,16 +1,5 @@
-# Ігнорування всіх файлів .log
-*.log
-
-# Ігнорування папок app, gulp, node_modules
-app/
-gulp/
-node_modules/
-
 # Ігнорування папки dist/cart
 dist/cart/
 
-# Ігнорування певних файлів
-gulpfile.js
-package-lock.json
-package.json
+
 
